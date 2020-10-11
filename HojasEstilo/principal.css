@@ -1,1 +1,51 @@
 /*Archivo ".css"*/
+
+.listaAeropuertos {
+    font-family: Arial;
+    font-size: 20;
+}
+
+.sublistaAeropuertos {
+    font-family: Arial;
+    font-size: 16;
+    list-style-type: square;
+}
+
+h1 {
+    text-align: center;
+    margin: 5;
+}
+
+body {
+    background-color: #49C5AE;
+    /*Azul de fondo*/
+    margin: 10;
+}
+
+a {
+    color: black;
+}
+
+.lineaCabezera {
+    color: white;
+    border-color: white;
+}
+
+li {
+    margin: 10;
+}
+
+.aclaracion {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13;
+    text-align: justify;
+    margin: 20;
+}
+
+.botonBostrap {
+    margin: 20;
+}
+
+.mapa {
+    text-align: center;
+}
