@@ -16,6 +16,11 @@ h1 {
     margin: 5;
 }
 
+h2 {
+    text-align: center;
+    margin: 5;
+}
+
 body {
     background-color: #49C5AE;
     /*Azul de fondo*/
@@ -29,6 +34,8 @@ a {
 .lineaCabezera {
     color: white;
     border-color: white;
+    background: white;
+    background-color: white;
 }
 
 li {
@@ -48,4 +55,18 @@ li {
 
 .mapa {
     text-align: center;
+}
+
+.botonCentrado {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin: 10;
+}
+
+.explicacion {
+    text-align: center;
+    margin: 25;
 }
